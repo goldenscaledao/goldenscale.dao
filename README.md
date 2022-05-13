@@ -1,0 +1,2 @@
+# goldenscale.dao
+crypto
